@@ -1,5 +1,5 @@
-function hello(name){
-    return(`hello ${name}`);
+function hello(Renette){
+    return(`hello ${Renette}`);
 }
 
 
